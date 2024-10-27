@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 21 16:53:49 2023
-
-@author: ashleyliu
-"""
-
 
 '''
 A text file with English to Chinese translations of words will be read into 
